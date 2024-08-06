@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-# gem "rails"
+gem 'faraday', '~> 1.0' 
+gem 'faraday_middleware', '~> 1.2'

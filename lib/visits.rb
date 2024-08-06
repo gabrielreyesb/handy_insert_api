@@ -1,7 +1,7 @@
 def post_visits_data(conn, api_url)
     
-    start_time = Time.parse('09/07/2024 10:10:00') 
-    end_time = start_time + 30 * 60
+    start_time = Time.parse('05/08/2024 14:30:00') 
+    end_time = start_time + 15 * 60
 
     visit_data = [
         { 
